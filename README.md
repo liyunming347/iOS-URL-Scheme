@@ -402,7 +402,7 @@ Whatsapp
     pinduoduo://com.xunmeng.pinduoduo/https://mobile.yangkeduo.com/pythagoras_ctc_ca.html
 京东 
 
-    openapp.jdmoble://
+    openapp.jdmobile://
 美团 
 
     imeituan://
